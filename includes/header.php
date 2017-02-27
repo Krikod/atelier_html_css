@@ -5,4 +5,3 @@
 	<title>Atelier HTML / CSS</title>
 </head>
 <body>
-Bonjour !
